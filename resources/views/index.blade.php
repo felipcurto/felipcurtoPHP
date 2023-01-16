@@ -7,8 +7,6 @@
     <title>Documents</title>
 </head>
 <body>
-<?php
-
-?>
+<?php$greeting;?>
 </body>
 </html>
